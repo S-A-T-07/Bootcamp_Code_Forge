@@ -1,0 +1,21 @@
+Introduction to forntend debelopment and html
+Pillars of Frontend Development: HTML, CSS, JS(JAVASCRIPT)
+
+1. HTML (Hypertext Markup Language) SKELETON
+Create Structure
+controls the layout of the content
+provides structure for the webpage design
+the fundamental building block of any web page
+
+2. CSS (Cascading Style Sheet) SKIN
+Stylish the website
+applies style to the web page elements
+targets various screen sizes to make web pages responsive
+primarily handles the "look and feel" of a web page
+
+3. JS (Javascript) BRAIN
+Increase interactivity
+adds interactivityto a web page
+handles complex functions and features
+programmatic code which enahances functionality
+
